@@ -4,11 +4,11 @@ MGM Grand Market is a Bitcoin only market which has been trading since 2021 and 
 ## MGM Grand Market Link:
 
 ```sh
-http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion
+http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion)
 
-<a href="http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion"><img src="/assets/mgmgrand-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -19,4 +19,4 @@ MGM Grand Market is a darknet market that's been designed from the ground up wit
 
 To create an account on MGM Grand Market, you just need to set a username, password and PIN number. No personal information is collected, not even an email address. Just select 'Register' from the landing page and follow the instructions. Make sure you save your mnemonic code so you can recover your account if you ever lose your password.
 
-<a href="http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion"><img src="/assets/mgmgrand-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion"><img src="/assets/mgmgrand-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand-register.webp" alt="image" style="max-width: 100%;"><a>
